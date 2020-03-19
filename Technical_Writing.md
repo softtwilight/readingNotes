@@ -1,5 +1,5 @@
 ## Technical Writing
-
+[原文](https://developers.google.com/tech-writing/one/clear-sentences)
 ### Word
 - 定义新的或者不熟悉的**术语**。 引用或者自己定义，如果需要定义很多术语，将定义结合到一个词汇表中。  
 - 使用术语要一直。如果要用缩写，在第一次出现的地方声明。**Protocol Buffers** (or **protobufs** for short);
@@ -15,3 +15,16 @@
     - was formed by
     - is frozen by
 - 命令词开始的句子一般是主动语态。Open, Set...    
+
+### Clear sentences
+- 技术写作的首要目标就是清晰。
+- 选择有力直接的动词，think twice。动词是一个句子最重要的部分。  `precise, strong, specific instead of imprecise, weak, or generic verbs`  
+- 少用 there is/there are
+
+| Weak Verb	| Strong Verb | 
+|  ----  | ----  |
+|  The error **occurs** when clicking the Submit button.  | Clicking the Submit button **triggers** the error.  |
+| This error message **happens** when...	| The system **generates** this error message when...|
+| We **are** very careful to ensure...	| We carefully **ensure**...|
+| **There is a variable** called met_trick that stores the current accuracy.	| **The met_trick variable** stores the current accuracy.|
+
