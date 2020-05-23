@@ -6,10 +6,10 @@
 		3. Is there something else that I could spend my time on that would produce more value?
 	
 	focus on high-leverage activities.
-	
+
 > "If you want to have a big impact, you need a leverage point-a way to put in a dollar of funding or an hour of 
  effort and benefit society by a hundred of a thousand times as much"  -- Bill Gates.
-	 
+
 ## 2.Optimize for Learning
 	Optimizing for learning is a high-leverage activity.
 	Adopting a growth mindset is a prerequisit for improving out abilities.
@@ -20,7 +20,7 @@
 	3. the earlier, the better. A good first job make it easier to get a better second one.
 	
 	Coninuous iteration. behave as a startup. long term success.
-	
+
 ### Seek work environments conducive to learing.
 Six factors to consider when choosing a new job  
 1. Fast growth. "If you're offered a seat on a rocket ship, you don't ask what seat."  
@@ -53,4 +53,49 @@ learning adjacent disciplines.
 - Pursue what you love.
 
 ## 3.Prioritize Regularly
-	
+
+Woring on a task means not working on another.So regular prioritization is a high-leverage activity.
+
+Hard, require practice.
+
+### Track Todos in a Single, Easily Accessible List.
+
+- checklists drastically reduce errors.Pilots check pre-flight lists, surgeons check operation list, construction manager check safety list.
+- The first step of effective prioritization is listing every task.
+- short memory, 7 items, deliberate remembering reduce our attention, inpair decision-making abilities.free the mind
+- Task list should be simple, and only one master list.(只记录在一个地方)
+- 用leverage来判断优先级，只需要排序最高的几个就可以了
+
+### Focus on What Directly Produces Value
+
+- meeting，writing status reports...only hava a weak and indirect connection to creating value.
+- When you get the important things right, the small things often don't matter.
+- Prioritize the ones that produces the most value with the least amount of effort.
+- Don't try to get everthing done. Focus on what matters-produces more value.
+
+### Focus on the Important and Non-Urgent.
+
+- Investing in Quadrant 2 solutions can reduce urgent task and stress. 
+
+- Planning / Building relations / New opportunities/ Personal development are things in Quadrant 2.
+
+### Protect Your Maker's Schedule
+
+- create block time. protect your time.
+
+### Limit the Amount of Work in Progress
+
+- Increasing work linearly increases the likelihood of failure exponentiallly.
+- 《your brain at work》working memory like a small stage, When we work on many things simultaneously, we spend most of our brain resources moving actor on and off rather that outwork.
+
+### Fight Procrastination with If-Then Plans
+- It's difficult to start a difficult task.
+- If-Then plan: If you want do sth, write down **when,where,how** you do it.
+- Ex:"If 9 pm, Then I will coding", "If I have 20 minutes, I will remember Japanese word."
+
+### Make a Routine of Prioritization
+- If it's beginning of the week, then I add tasks I want to accomplish this week, put unfinashed work from previous week.
+- 
+
+
+
