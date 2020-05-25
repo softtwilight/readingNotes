@@ -95,7 +95,57 @@ Hard, require practice.
 
 ### Make a Routine of Prioritization
 - If it's beginning of the week, then I add tasks I want to accomplish this week, put unfinashed work from previous week.
-- 
 
+## 4.Invest in Iteration Speed
 
+Continuous deployment
+
+- allow incremental, small changes.
+- instantly
+
+### Move Fast to Learn Fast
+
+learning compounds.
+
+### Invest in Time-Saving Tools
+
+> I've found that almost all successful people write a lot of tools..A very good indicator of future success was if the first thing someone did on a problem was to write a tool.
+
+> If you have to do something manually more than twice, then write a tool for the third time.
+
+Time-saving tools pay off large dividends.
+
+Start small, find an area where a tool could save time, build it, and demonstrate its value.
+
+### Shorten Your Debugging and Validation Loops
+
+Much of our engineering time on these two activities.
+
+after repeatedly going through the same motion, take a moment to think through where you able to tighten that testing loop.
+
+> Effective engineers hava an obsessive ability to create tight feedback loops for what ther're testing.
+
+### Master Your Programming Environment
+
+Mastery is a process, invest some time.
+
+Be mindful of which of your common, everyday actions slow you down, and how to do efficiently.
+
+- Get proficient with your favoiter text editor or IDE.
+- Learn at least one productive, high-level programming language.
+- Get familiar with unix shell commands.
+- Prefer the keyboard over the mouse.
+- Automate your manual workflows. Like shells, extensions, etc.
+- Test out ideas on an interactive interpreter. Compile is costing.
+- Make it fast and easy to run just the unit tests associated with your current changes.
+
+### Don't Ignore Your Non-Engineering Bottlenecks
+
+Identify the biggest bottlenecks, figure out how to eliminate them.
+
+Communication is critical for making progress on people-related bottlenecks.
+
+Be active when depend on others.
+
+## 5.Measure What You Want to Improve
 
