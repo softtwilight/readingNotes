@@ -1,4 +1,4 @@
-申明变量  
+https://missing.csail.mit.edu/2020/shell-tools/
 ```bash
 foo=bar
 echo $foo
